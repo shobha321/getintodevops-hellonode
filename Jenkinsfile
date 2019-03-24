@@ -11,7 +11,7 @@ node {
         /* This builds the actual image; synonymous to
          * docker build on the command line */
 
-        app = docker.build("shobharepo/getintodevops-hellonode")
+        app = docker.build("shobha321/getintodevops-hellonode")
     }
 
 
